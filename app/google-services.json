@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "708911589308",
+    "firebase_url": "https://dialabar-43b26.firebaseio.com",
+    "project_id": "dialabar-43b26",
+    "storage_bucket": "dialabar-43b26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708911589308:android:0fe2accfa68a217d4dedb9",
+        "android_client_info": {
+          "package_name": "com.example.dialabar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708911589308-c8ll5gbm2ssmbghsvk5ds3j4npl1d0or.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dialabar",
+            "certificate_hash": "02b6bedce8919ad7671283ae0c747741b40f610a"
+          }
+        },
+        {
+          "client_id": "708911589308-892nrdlvlejfq8ude99tv13o0t1qo3q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANQNIfeXyq7h1CSs-JAuOrDRr3yTixJZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708911589308-892nrdlvlejfq8ude99tv13o0t1qo3q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
