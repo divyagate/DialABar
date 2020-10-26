@@ -20,15 +20,45 @@
             app:slideInterval="3000"
             app:strokeColor="#FF777777"
             app:strokeWidth="1dp"/>
-        <Button
-            android:id="@+id/btnlogout"
-            android:textAllCaps="false"
-            android:layout_marginTop="10dp"
-            android:textColor="@color/colorWhite"
-            android:background="@drawable/bottom_bg"
-            android:text="Log Out"
-            android:onClick="logout"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
+
     </LinearLayout>
+
+\
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:background="@drawable/wine1"
+        android:layout_marginTop="250dp"
+        />
+    <Button
+        android:id="@+id/itempage1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="280dp"
+        android:layout_marginLeft="200dp"
+        android:textAllCaps="false"
+        android:textColor="@color/colorWhite"
+        android:background="@drawable/bottom_bg"
+        android:onClick="logout"
+        android:text="Show wines" />
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:background="@drawable/wine2"
+        android:layout_marginTop="480dp"
+        />
+    <Button
+        android:id="@+id/itempage2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="500dp"
+        android:layout_marginLeft="200dp"
+        android:textAllCaps="false"
+        android:textColor="@color/colorWhite"
+        android:background="@drawable/bottom_bg"
+        android:onClick="logout"
+        android:text="Show wines" />
 </RelativeLayout>

@@ -17,18 +17,23 @@
 
     <Button
         android:id="@+id/homescreen"
-        android:layout_width="wrap_content"
+        android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
-        android:background="@color/colorAccent"
-        android:text="Home Screen" />
+        android:textAllCaps="false"
+        android:textColor="@color/colorWhite"
+        android:background="@drawable/bottom_bg"
+        android:text="Home page" />
 
     <Button
         android:id="@+id/logout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:background="@color/colorAccent"
+        android:textAllCaps="false"
+        android:textColor="@color/colorWhite"
+        android:background="@drawable/bottom_bg"
+        android:onClick="logout"
         android:text="Logout" />
 
 
